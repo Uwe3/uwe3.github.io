@@ -8,3 +8,7 @@ If all tests have passed, you can merge your changes into the master branch. If 
 * item2
 * item3
 * item4
+
+any quote
+> this is
+> it
